@@ -40,7 +40,7 @@ h2, #About{
 }
 
 .card{
-    box-shadow: 0px 0px 5px 0px;
+    box-shadow: 0px 15px 30px -11px #83a6d280;
     border-radius: 5px;
     height: 180px;
     width: 300px;
